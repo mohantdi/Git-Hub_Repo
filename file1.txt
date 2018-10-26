@@ -5,3 +5,5 @@ First line added on the file to local master.
 03rd line added to local master to repo.
 
 Added 04th line.
+
+Added 05th line on the branch1.
