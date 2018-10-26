@@ -1,1 +1,3 @@
 First line added on the file.
+
+02nd line added on the file to the local master.
